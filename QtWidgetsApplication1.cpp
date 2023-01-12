@@ -8,3 +8,4 @@ QtWidgetsApplication1::QtWidgetsApplication1(QWidget *parent)
 
 QtWidgetsApplication1::~QtWidgetsApplication1()
 {}
+//Edit als Test
